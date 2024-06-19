@@ -6,7 +6,7 @@ Este é um projeto desenvolvido para a disciplina de Programação Orientada a O
 
 O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da seguinte forma:
 
-- **src/main/java/com/seunome/projetocofrinho**
+- **src/main/java/**
     - **model**
         - `Moeda.java`: Classe abstrata que define o template para as moedas.
         - `Dolar.java`: Classe concreta que representa a moeda Dólar.
